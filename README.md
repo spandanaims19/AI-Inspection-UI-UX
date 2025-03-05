@@ -15,4 +15,4 @@ The AI Inspection System is a cutting-edge solution designed to revolutionize in
 ## UI Design
 The user interface (UI) design for the AI Inspection System focuses on **usability**, **accessibility**, and **aesthetic appeal**. Below is the design document showcasing the layout, workflows, and user interactions.
 
-### [View UI Design PDF](AI_Inspection.pdf)# AI-Inspection-UI-UX
+### [View UI Design PDF](Inspection_AI.pdf)# AI-Inspection-UI-UX
